@@ -102,7 +102,7 @@ logo1 = """
 \033[1;97m-----------------------------------------------"""
                                                              
 """
-logo3 = """                              
+logo2 = """                              
 \033[1;91m TYPE ANY PHONE NUMBER CODE
 \033[1;97m[1] INDIA\033[1;93m 905,975,755,855,954,
 \033[1;97m[2] INDIA\033[1;95m 897, 967, 937, 700, ???
@@ -141,7 +141,6 @@ def action():
         tik()
         os.system('clear')
         print logo2
-        print logo3
         try:
             c = raw_input('►')
             k = '+91'
