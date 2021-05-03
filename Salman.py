@@ -103,7 +103,7 @@ logo1 = """
                                                              
 """
 logo3 = """                              
-\033[1;91mTYPE ANY PHONE NUMBER CODE
+\033[1;91m TYPE ANY PHONE NUMBER CODE
 \033[1;97m[1] INDIA\033[1;93m 905,975,755,855,954,
 \033[1;97m[2] INDIA\033[1;95m 897, 967, 937, 700, ???
 \033[1;97m[3] INDIA\033[1;92m 727, 965, 786, 874, 856
